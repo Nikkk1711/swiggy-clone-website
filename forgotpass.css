@@ -1,0 +1,29 @@
+/* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+
+body {
+    background-color: rgb(248, 227, 173);;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    border-radius: 8px;
+    border: none;
+}
+
+h3 {
+    color: #343a40;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-primary {
+    background-color: #fc8019;
+    border-color: #fc8019;
+}
+
+.btn-primary:hover {
+    background-color: #e67319;
+    border-color: #e67319;
+}
+
